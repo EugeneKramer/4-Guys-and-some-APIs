@@ -1,0 +1,5 @@
+3/16/16
+
+- use my firebase for now til we decide which to use
+
+- definitely get my VPS working with this afterwards
