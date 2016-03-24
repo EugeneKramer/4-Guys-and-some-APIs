@@ -11,6 +11,7 @@ Week 8 project demonstrating usage of third-party APIs and libraries. Works best
 * Firebase
 * JamBase
 * OAuth.io
+* Doorbell.io
 
 ##Libraries/frameworks used
 
